@@ -3,8 +3,8 @@
 
 I joined the company as a game client programmer in 2021.
 
-Major Programming Language : C++, C#
-Major GameEngine : Unity, Unreal( not yet )
+Major Programming Language : `C++`, `C#` <br>
+Major GameEngine : `Unity`, `Unreal`
 
 2025
 - Unreal Study
