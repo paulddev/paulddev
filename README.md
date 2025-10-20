@@ -1,13 +1,15 @@
 ### About Me 👋
 안녕하세요!
 
-게임 클라이언트 개발자로 활동하고 있습니다.
+I joined the company as a game client programmer in 2021.
 
-목표 : AAA 게임 프로젝트 개발 참여.
-관심 언어 : C, C++, C#
-관심 엔진 : Unity, Unreal5(시작 중)
+Major Programming Language : C++, C#
+Major GameEngine : Unity, Unreal( not yet )
 
-주로 게임 개발과 관련한 스킬들을 배우고, 정리하고 있습니다.
-정리라는게 주관적이라서, 개인 공부에 가까운 정리입니다.
+2025
+- Unreal Study
+- Skill, Boss implement
+- Program Solved 500
+- DB
 
 방문해주셔서 감사합니다!🙂
